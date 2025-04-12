@@ -5,4 +5,4 @@ SQL MYSQL types
 
 
 
-| sql and its tpess
+| sql and its types 
