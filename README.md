@@ -21,7 +21,6 @@ Types and its discription
 |    | **table-of-concepts**                                                                                                                                                          |                                                                                                                                                                    
 | 1  |[Mysql commands](#)                                                                                                                                          |
 | 2  |[Mysql commond _prompt](#)                                                                                                                                   |
-
 | 3 | [Mysql_structures](#)                |
 | 4 | [Mysql declerations](#)             |
 
