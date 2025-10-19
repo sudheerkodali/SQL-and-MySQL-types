@@ -24,6 +24,7 @@ Types and its discription
 
 | 3 | [Mysql_structures]                |
 
+| 4 | [Mysql declerations].             |
 
 
 
