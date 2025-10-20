@@ -1,4 +1,4 @@
-# SQL-and-MySQL-types
+ok# SQL-and-MySQL-types
 SQL MYSQL types
 
 ## mml, ocl,etc  ##
@@ -23,7 +23,7 @@ Types and its discription
 | 2  |[Mysql commond _prompt](#)                                                                                                                                   |
 | 3 | [Mysql_structures](#)                |
 | 4 | [Mysql declerations](#)             |
-
+| 5 | [Deceleration data types](#)      |
 
 
 
